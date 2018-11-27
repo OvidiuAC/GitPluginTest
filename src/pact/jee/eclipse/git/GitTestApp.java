@@ -3,5 +3,5 @@ package pact.jee.eclipse.git;
 public class GitTestApp {
 
 	public static void main(String[] args){
-		System.out.println("Hello!");}
+		System.out.println("Hello, from the other braaanch!");}
 }
